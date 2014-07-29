@@ -1,0 +1,100 @@
+  414  cd Documents/
+  415  cd Online\ learning/
+  416  ls
+  417  git status
+  418  ls
+  419  cd Udacity Machinelearning1
+  420  cd 'Udacity Machinelearning1'
+  421  cd 'Udacity Machinelearning1'
+  422  cd
+  423  ls
+  424  cd
+  425  cd Documents/
+  426  cd Online\ learning/
+  427  ls
+  428  cd 'Udacity Machinelearning1'
+  429  ls
+  430  git init
+  431  git add
+  432  git add .
+  433  git commit -m 'hello'
+  434  git status
+  435  git status
+  436  git push
+  437  git remote Ud_ML1 https://github.com/gilesburnfield/Udacity-Machine-Learning-1-notes
+  438  git remote Ud_ML1 https:/github.com/gilesburnfield/Udacity-Machine-Learning-1-notes
+  439  git satus
+  440  git status
+  441  ls - m
+  442  ls
+  443  ls -a
+  444  git remote add origin https://github.com/gilesburnfield/Udacity-Machine-Learning-1-notes.git
+  445  git push -u origin master
+  446  git pull
+  447  git pull origin master
+  448  git log
+  449  git push -u origin master
+  450  git status
+  451  rm .DS_Store
+  452  git status
+  453  git commit
+  454  git commit -am "delated .DSstore"
+  455  vim .gitignore
+  456  git status
+  457  git add .gitignore 
+  458  git commit -m "add git ignore)
+  459  "
+  460  git push
+  461  ls
+  462  history 100
+  463  git pull
+  464  git commit
+  465  git push
+  466  git status
+  467  git add
+  468  git add  .
+  469  git push
+  470  git pull
+  471  git status
+  472  git commit
+  473  ls
+  474  git push
+  475  git checkout -b test123
+  476  vim index.html
+  477  git commit -a -m 'created random html file'
+  478  ls
+  479  git status
+  480  git push
+  481  git add
+  482  git add  .
+  483  git checkout master
+  484  git checkout - b hotfix
+  485  git status
+  486  git commit
+  487  git status
+  488  git pull
+  489  git push
+  490  git clone https://github.com/gilesburnfield/gadb.git
+  491  git status
+  492  cd gadb/
+  493  git status
+  494  git add requirements.txt runapp.py 
+  495  git commit -am "basic version"
+  496  python runapp.py 
+  497  python runapp.py 
+  498  git push
+  499  git remote add heroku git@heroku.com:gadb.git
+  500  git status
+  501  git add Procfile 
+  502  git commit -am "added procfile"
+  503  git push heroku master
+  504  heroku login
+  505  heroku login
+  506  git push heroku master
+  507  heroku logs
+  508  git push heroku master
+  509  git status
+  510  git commit -am "fix procfile"
+  511  git push heroku master
+  512  python runapp.py 
+  513  history 100 > history.txt
